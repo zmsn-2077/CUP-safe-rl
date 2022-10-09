@@ -1,4 +1,4 @@
-The code for paper :"Constrained Update Projection Approach to Safe Policy Optimization".
+The code for the publication at NeurIPS2022: "Constrained Update Projection Approach to Safe Policy Optimization".
 
 You can simplely run python main.py to use it, with default environment "Swimmer-v3".
 
